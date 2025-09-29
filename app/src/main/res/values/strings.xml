@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">数字键盘</string>
+    <string name="ime_name">数字输入法</string>
+    <string name="copy">复制</string>
+    <string name="paste">粘贴</string>
+    <string name="clear">清空</string>
+    <string name="delete">删除</string>
+    <string name="settings_title">数字键盘设置</string>
+    <string name="enable_ime">启用输入法</string>
+    <string name="enable_ime_summary">在系统设置中启用此输入法</string>
+</resources>
